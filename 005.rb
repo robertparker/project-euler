@@ -32,6 +32,3 @@ def get_smallest_divisible_for_all_up_to(num)
 end
 
 p get_smallest_divisible_for_all_up_to(20)
-
-
-# 206527
